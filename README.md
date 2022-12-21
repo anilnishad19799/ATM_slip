@@ -1,1 +1,0 @@
-# Bank_ATM_slip_detection
